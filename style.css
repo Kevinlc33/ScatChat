@@ -22,6 +22,14 @@ hr{
   max-width: 65px;
 }
 
+.mobile
+{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 150px;
+}
 .buffer{
   height: 10rem;
 }

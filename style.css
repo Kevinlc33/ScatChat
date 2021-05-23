@@ -34,6 +34,7 @@ hr{
   height: 10rem;
 } */
 .btn{
+  position: relative;
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
